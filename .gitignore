@@ -1,3 +1,6 @@
+# Preventing api_keys.py from being tracked
+api_keys.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
